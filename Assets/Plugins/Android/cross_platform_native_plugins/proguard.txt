@@ -1,0 +1,15 @@
+# General
+-keepattributes Signature
+-keepattributes Exceptions
+-keepattributes *Annotation*
+-keepattributes EnclosingMethod
+
+
+# Address Book
+-keep public class com.voxelbusters.nativeplugins.v2.features.addressbook.** {*; }
+
+#Sharing
+-keep public class com.voxelbusters.nativeplugins.v2.features.sharing.** {*; }
+
+#Mobile Popups
+-keep public class com.voxelbusters.nativeplugins.v2.features.popups.** {*; }

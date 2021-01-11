@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" package="com.voxelbusters.nativeplugins" android:versionCode="1" android:versionName="1.0">
+  <uses-sdk android:minSdkVersion="14" android:targetSdkVersion="27" />
+  <application>
+    
+  </application>
+  <uses-permission android:name="android.permission.READ_CONTACTS" />
+</manifest>
